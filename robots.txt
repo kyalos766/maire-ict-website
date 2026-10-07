@@ -1,0 +1,5 @@
+# MAIRE ICT SOLUTION - robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://maireict.co.ke/sitemap.xml
